@@ -1,0 +1,1 @@
+# BankIntegrationC4ArchitectureModel
